@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">stockmarcketapp</string>
+    <string name="query_placeholder">Search…</string>
+</resources>
